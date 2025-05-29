@@ -1,0 +1,11 @@
+openai==1.82.0
+python-dotenv==1.0.0
+pyttsx3==2.98
+vosk==0.3.44
+ipywidgets==7.7.2
+jupyter=1.1.1
+PyAudio==0.2.14
+speechrecognition
+notebook
+jupyterlab
+ipykernel
