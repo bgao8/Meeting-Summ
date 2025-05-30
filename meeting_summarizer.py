@@ -8,7 +8,7 @@ load_dotenv()
 
 # Load from the correct env file
 # print("Retrieving key")
-# load_dotenv("key.env")
+load_dotenv("key.env")
 
 # Get API key from environment variable instead of hardcoding
 # openai.api_key = os.getenv("OPENAI_API_KEY") or "your-api-key-here"
